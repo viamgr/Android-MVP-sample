@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvpExample</string>
+
+    <string name="loading">Loading</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="error">An error occurred</string>
+    <string name="no_result">There is no result…</string>
+    <string name="heroes">Heroes</string>
+    <string name="comics">Comics of %1$s</string>
+</resources>
